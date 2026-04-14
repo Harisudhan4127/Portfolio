@@ -1,0 +1,186 @@
+PORTFOLIO WEBSITE (REACT + TAILWIND + ANIMATIONS)
+
+CONCEPT:
+Create a modern futuristic portfolio using glassmorphism UI, smooth animations, blur effects, and 3D interactions. Focus on clean design, fast performance, and strong project presentation.
+
+STRUCTURE (TOP TO BOTTOM)
+
+NAVBAR
+Sticky at top
+Left: Name or logo
+Right: Home | About | Projects | Contact
+Add theme toggle button (dark/light)
+Use blur background (backdrop blur)
+Smooth scroll navigation
+
+UX:
+
+Always visible
+Simple and clean
+HERO SECTION
+Full screen height
+Left:
+Name (large bold text)
+Role (typing animation)
+Short tagline
+Buttons: View Projects, Contact
+Right:
+3D object (rotating sphere or particles)
+
+UI:
+
+Gradient dark background
+Blur blobs in background
+Smooth fade-in animation
+
+Goal:
+
+User understands your role instantly
+ABOUT SECTION
+Glassmorphism card (blur + transparency)
+Short introduction (5–6 lines)
+Career goal and interests
+
+Animation:
+
+Fade in + slide up
+SKILLS SECTION
+Grid layout
+Show:
+Programming languages
+Tools
+Technologies
+
+UI:
+
+Icons or badges
+Hover glow effect
+Optional progress bars
+
+Goal:
+
+Quick understanding of skills
+PROJECTS SECTION (MOST IMPORTANT)
+Grid layout (2–3 columns)
+Each project card:
+Image
+Title
+Description
+Tech stack
+Links (GitHub / Live)
+
+UI:
+
+Glass cards
+Hover effects:
+Scale
+Glow
+3D tilt
+
+Animation:
+
+Staggered scroll reveal
+
+Goal:
+
+Highlight best projects clearly
+EXTRA SECTION (OPTIONAL)
+Certifications
+Research papers
+Mini projects
+
+UI:
+
+Timeline or cards
+CONTACT SECTION
+Simple form:
+Name
+Email
+Message
+Social links (GitHub, LinkedIn, YouTube)
+
+UX:
+
+Easy to use
+Show success message
+FOOTER
+Copyright text
+Social links
+Minimal design
+
+GLOBAL UI DESIGN
+
+Use dark theme with accent colors
+Apply glassmorphism (blur + transparency)
+Maintain spacing and alignment
+Use consistent fonts (max 2)
+Add soft shadows and rounded corners
+
+ANIMATIONS
+
+Hero: fade + slide
+Sections: scroll reveal
+Cards: hover scale + tilt
+Buttons: glow effect
+Background: moving blur shapes
+
+Tools:
+
+Framer Motion
+Tailwind transitions
+
+3D EFFECTS
+
+Use React Three Fiber
+Add rotating object or particles
+Apply tilt effect on cards using mouse movement
+Add perspective for depth
+
+THEME TOGGLE (AUTO + MANUAL)
+
+Goal:
+Support both dark and light mode
+
+System Theme Detection
+Detect prefers-color-scheme
+Apply dark or light automatically
+Manual Toggle
+Button in navbar
+Switch between dark and light
+Save Preference
+Store theme in localStorage
+Load saved theme on refresh
+Tailwind Setup
+Enable dark mode using class
+Theme Styles
+Dark:
+Background: dark colors
+Text: white
+Light:
+Background: white
+Text: black
+UX Improvements
+Smooth transition between themes
+Change icon (moon/sun)
+Priority: saved theme over system theme
+
+RESPONSIVE DESIGN
+
+Mobile friendly layout
+Stack sections vertically
+Reduce heavy animations on small devices
+
+PERFORMANCE
+
+Optimize images
+Lazy load 3D elements
+Avoid too many animations
+Keep load time under 3 seconds
+
+FINAL GOAL
+
+Clean modern design
+Smooth user experience
+Strong project showcase
+Interactive and engaging UI
+Fast and responsive website
