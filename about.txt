@@ -1,0 +1,115 @@
+HOME / INTRO
+
+Hello, I’m Harisudhan Baskaran
+An aspiring Artificial Intelligence and Machine Learning Engineer passionate about building innovative and impactful technology solutions.
+
+I specialize in combining software and hardware to create smart systems, focusing on AI, embedded systems, and real-time applications. I enjoy transforming ideas into real-world projects that solve meaningful problems.
+
+🚀 NEW UPDATES
+
+Currently working on advanced AI-powered embedded systems with a focus on real-time health monitoring and smart wearable technology.
+
+Developing a smartwatch-style user interface with animations, graphs, and intelligent alert systems for my final year project.
+
+Exploring deeper into Computer Vision, OpenCV, and MediaPipe for gesture recognition and human-computer interaction systems.
+
+Learning cybersecurity fundamentals alongside AI to build secure and reliable smart systems.
+
+Actively improving UI/UX skills using React and Tailwind CSS with modern animations (blur effects, 3D elements, smooth transitions).
+
+Recently secured 3rd Prize in the 24-hour National-Level Hackathon “NEXATHON 2.0” (2026) as part of team HS-TECH.
+
+ABOUT ME
+
+I am currently pursuing a B.Tech in Artificial Intelligence and Machine Learning. I have a strong interest in developing intelligent systems that integrate AI with embedded hardware.
+
+My journey in technology started with curiosity and has grown into a deep passion for innovation, research, and project development. I continuously explore new tools, frameworks, and technologies to enhance my skills.
+
+I believe in learning by building, and most of my knowledge comes from hands-on experience in creating projects, participating in competitions, and attending technical workshops.
+
+SKILLS
+
+Programming Languages
+Python, C, C++, Arduino, HTML
+
+AI & Software Skills
+Machine Learning (Basic), Data Handling, OpenCV (Learning), Computer Vision (Learning)
+
+Hardware & Embedded Systems
+Arduino, ESP8266/ESP32, Raspberry Pi (Basic), Sensor Integration, Circuit Prototyping
+
+Tools & Technologies
+Fusion 360, SolidWorks, Tinkercad, Git (Basic), React (Learning), Tailwind CSS (Learning)
+
+Other Skills
+Problem Solving, Reverse Engineering, Creative Thinking, Adaptability
+
+PROJECTS
+
+🔬 Healthcare & AI-Based Systems
+Wearable Inhaler Device with AI for Real-Time Asthma Risk Assessment (Final Year Project)
+Portable Insulin Carrier
+AsthmaGuard
+Saliva-Based Disease & Cancer Risk Assessment
+Saliva-Based Ulcer Risk Assessment System
+Smart Heart Diagnosis Assistant
+AI-Driven Prediction Model for Heart Attack Diagnosis and Prevention
+
+🤖 Robotics & Automation
+Pathology Lab Robot
+Intelligent Pathology Lab Robot for Contactless Sample Transfer
+Automatic Speed Breaker
+AI-Driven Automatic Head Lamp
+
+🌐 IoT & Smart Systems
+Bluetooth-Based Water Flow Meter
+Automatic Irrigation System
+IoT-Based Smart Home Energy Monitoring and Conservation System
+AI-Powered Smart Home
+
+💻 Software & AI Applications
+Gesture-Based Virtual Mouse using Computer Vision
+MAC Address-Based Attendance System
+Organ Transplantation Management System
+Chatbot System
+
+🧪 Embedded Systems & Prototyping
+Portable Wristband for Alcohol and Inhalant Detection
+Multiple sensor-based automation and IoT prototypes using Arduino and ESP modules
+
+ACHIEVEMENTS
+
+Best Paper Award – International Conclave on Sustainable Innovation (2024)
+Consolation Prize – SCIMIT for Portable Insulin Carrier (2025)
+3rd Prize – NEXATHON 2.0 National-Level Hackathon (2026), Mailam Engineering College (Team: HS-TECH)
+Fourth Prize – Southern India Science Fair (2020)
+Inspire Award (2019)
+ATL Student Innovator Award (2019)
+Participated in ICRIMST-2025 International Conference
+Attended National Workshop on Nuclear Energy (2025)
+Completed Machine Learning Workshop (2025)
+
+EXPERIENCE / LEARNING
+
+Hands-on experience in embedded systems and IoT development
+Completed Core Java Internship with practical exposure to application development concepts
+Actively participated in technical workshops, hackathons, and innovation programs
+Self-driven learning in AI, Computer Vision, Cybersecurity, and Smart Systems
+
+PORTFOLIO HIGHLIGHTS
+
+Strong combination of hardware + software skills
+Experience in real-world project development
+Focus on AI-powered smart devices
+Growing expertise in UI/UX and modern web technologies
+Continuous learner with an innovation-driven mindset
+
+CONTACT
+
+Email: harisudhan4127@gmail.com
+
+Phone: 9344040002
+
+FOOTER / TAGLINE
+
+“Building smart solutions by combining AI, creativity, and engineering.”
